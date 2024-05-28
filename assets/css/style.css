@@ -1,5 +1,11 @@
+/* Reset to zero */
 * {
     margin: 0;
     padding: 0;
     border: 0;
+}
+
+/* Styled logo image in nav-bar */
+.navbar img {
+    height: 2rem; /* Limit size of logo image */
 }
