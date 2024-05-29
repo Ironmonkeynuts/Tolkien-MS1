@@ -16,3 +16,9 @@
     background-repeat: no repeat;
     height: 67vh;
 }
+
+@media only screen and (max-width: 500px) {
+    #hero-image {
+        height: 50vh; 
+    }
+}
