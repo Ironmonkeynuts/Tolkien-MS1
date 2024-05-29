@@ -9,3 +9,10 @@
 .navbar img {
     height: 2rem; /* Limit size of logo image */
 }
+
+#hero-image {
+    background-image: url(../images/jrrtolkien.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+    height: 70vh;
+}
