@@ -42,3 +42,11 @@
 .image-right img {
     max-width: 100%;
 }
+#container {
+    min-height: 100%;
+}
+#footer {
+    position: relative;
+    height: 50px;
+    clear: both;
+}
