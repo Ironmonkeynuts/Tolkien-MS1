@@ -43,11 +43,13 @@
     max-width: 100%;
     padding-bottom: 50px;
 }
+
+/* Push footer to bottom */
 #container {
     min-height: 100%;
 }
 #footer {
     position: relative;
     height: 50px;
-    clear: both;
+    clear: both; /* reset floats */
 }
