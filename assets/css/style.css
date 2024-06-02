@@ -25,7 +25,9 @@
     }
 }
 
+/* Place text and images side by side */
 .info-left {
+    padding: 0 20px;
     width: 80%;
     float: left;
 }
@@ -35,8 +37,8 @@
 .image-right {
     width: 20%;
     float: right;
+    padding-right: 20px;
 }
 .image-right img {
     max-width: 100%;
-    height: 150px;
 }
