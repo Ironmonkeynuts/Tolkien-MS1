@@ -24,3 +24,10 @@
         height: 67vh; 
     }
 }
+
+main {
+    background-image: url("../images/a_part_of_the_shire-c-tolkien.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
