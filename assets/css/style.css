@@ -10,18 +10,18 @@
     height: 2rem; /* Limit size of logo image */
 }
 
-/* Hero-image for main in index html to fill width */
+/* Hero-image for main in index.html small devices */
 #hero-image {
     background-image: url(../images/jrrtolkien.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 67vh;
+    height: 50vh;
 }
 
-/* Hero-image adjusted for fit in smaller devices */
-@media only screen and (max-width: 500px) {
+/* Hero-image for main in index html to fill width for larger devices */
+@media only screen and (min-width: 500px) {
     #hero-image {
-        height: 50vh; 
+        height: 67vh; 
     }
 }
 
