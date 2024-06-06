@@ -10,23 +10,34 @@
 <body>
   <!-- Header navbar include logo and nav links to other pages-->
   <header>
-    <nav class="navbar navbar-expand-lg bg-warning bg-opacity-50">
+    <nav class="navbar navbar-expand-md bg-warning bg-opacity-50">  <!-- Change expand to medium -->
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html"><img src="assets/images/tolkien.png" alt="Tolkien's logo">Tolkien</a>
+        <a class="navbar-brand d-flex w-50 me-auto" href="index.html">
+          <img src="assets/images/tolkien.png" alt="Tolkien's logo">
+          Tolkien
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-link" href="index.html">Home</a>
-            <a class="nav-link" href="life.html">Life</a>
-            <a class="nav-link active" aria-current="page" href="literature.html">Literature</a>
-            <a class="nav-link" href="legacy.html">Legacy</a>
-          </div>
+        <div class="collapse navbar-collapse w-100" id="navbarNavAltMarkup">
+          <ul class="nav navbar-nav ms-auto w-100 justify-content-end">. <!--Push menu items to right end-->
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="life.html">Life</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link active" href="literature.html">Literature</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="legacy.html">Legacy</a>
+          </li>
+          </ul>
         </div>
       </div>
     </nav>
-  </header>   
+  </header>  
   <!-- Sections covering different genres of writing. Section has text to left and images to right-->
   <main id="container">
     <h2 class="text-center">The Literature of Tolkien</h2>
