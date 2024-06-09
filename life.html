@@ -121,14 +121,10 @@
         <li class="ms-3"><a class="text-body-secondary" href="https://tolkienlibrary.com" target="_blank">Tolkien Library</a></li>
         <li class="ms-3">
           <!-- Newsletter subscription - email entry and subscribe button -->
-          <form class="m-3" action="">
-            <div class="input-group mb-3">
-              <div class="form-floating">
-                <label class="form-label" for="floatingInput">Subscribe to our Newsletter</label>
-                <input class="form-control" type="email" id="floatingInput" placeholder="name@example.com" required>
-              </div> 
-            <button class="btn btn-outline-dark" type="submit" id="subscribe">Subscribe</button>
-            </div>
+          <form class="input-group" action="">
+            <label class="ms-3 mt-2 me-1 text-body-secondary" for="floatingInput">Subscribe to newsletter:</label>
+            <input type="email" class="form-control" id="floatinginput" placeholder="name@example.com" aria-label="name@example.com" aria-describedby="button-addon2">
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2">Subscribe</button>
           </form>
         </li>
       </ul>
