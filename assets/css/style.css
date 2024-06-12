@@ -25,8 +25,15 @@
     }
 }
 
-main {
+#main-life {
     background-image: url("../images/a_part_of_the_shire-c-tolkien.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#main-literature {
+    background-image: url("../images/the-hobbit-book-cover.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
