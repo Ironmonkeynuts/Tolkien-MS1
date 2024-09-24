@@ -5,6 +5,10 @@
     border: 0;
 }
 
+.navbar, footer {
+    background-color: #f9e79f;
+}
+
 /* Styled logo image in nav-bar */
 .navbar img {
     height: 2rem; /* Limit size of logo image */
