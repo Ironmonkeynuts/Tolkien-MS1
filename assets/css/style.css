@@ -9,6 +9,10 @@
     background-color: #f9e79f;
 }
 
+.brand-color {
+    background-color: #fcf3cf;
+}
+
 /* Styled logo image in nav-bar */
 .navbar img {
     height: 2rem; /* Limit size of logo image */
