@@ -31,3 +31,40 @@ Provide links to external resources, including the Tolkien Foundation, film fran
 source: [amiresponsive](https://ui.dev/amiresponsive?url=https://ironmonkeynuts.github.io/Tolkien-MS1)
 
 ## UX
+
+This website was designed with an initial welcoming page outlining the scope and purpose of the website leading to three information pages:
+
+The Life of Tolkien, detailing important stages in his life in chronological order.
+
+The Work of Tolkien, outlining all aspects of his writing and including his art work.
+
+The legacy of Tolkien, demonstrating the impact of Tolkien's work on culture including film, other authors, music, artwork and gaming.
+
+A navbar runs through all pages allowing access to all pages consistently. Bootsrap 5 has been used to create a navbar.
+
+A footer replicated on each page allows access to some notable and relevant external websites. It laso includes a form box to subscribe to an emailed newsletter. 
+
+Styling and position has been kept consistent to enable familiar and comfortable accessibility. Bootstrap 5 has been employed to assist in most styling actions
+
+### Colour Scheme
+
+- `#000000` used for primary text and secondary text.
+- `#f9e79f` used for background color in navbar and footer of each page.
+- `#fcf3cf` used for background color throughout main of each page, labelled in class .brand-color.
+
+### Typography
+
+
+
+## User Stories
+
+### New Site Users
+
+- As a new site user, I would like to ____________, so that I can ____________.
+
+
+### Returning Site Users
+
+- As a returning site user, I would like to ____________, so that I can ____________.
+
+
