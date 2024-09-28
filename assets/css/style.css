@@ -6,18 +6,22 @@
     color: #000000;
 }
 
+/* Font for general text */
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Font for headers */
 h1, h2, h3, h4, h5, h6 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+/* Background colour for Navbar and footer */
 .navbar, footer {
     background-color: #f9e79f;
 }
 
+/* Background colour for main sections */
 .brand-color {
     background-color: #fcf3cf;
 }
