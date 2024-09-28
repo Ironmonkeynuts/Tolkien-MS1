@@ -46,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/* Background image for life page using a Tolkien map */
 #main-life {
     background-image: url("../images/a_part_of_the_shire-c-tolkien.png");
     background-size: cover;
@@ -53,6 +54,7 @@ h1, h2, h3, h4, h5, h6 {
     background-attachment: fixed;
 }
 
+/* Background image for literature page using book cover for 'The Hobbit' */
 #main-literature {
     background-image: url("../images/the-hobbit-book-cover.jpg");
     background-size: cover;
