@@ -58,6 +58,8 @@ The primary text has a font family consisting of Verdana, Geneva, Tahoma, and sa
 
 The headings use a font family consisting of Cambria, Cochin, Georgia, Times, 'Times New Roman'and serif. This contrasts with the primary text font and provide a text appearance that fits with Tolkien themes.
 
+![screenshot](assets/images/screenshot-typography.png)
+
 ## User Stories
 
 ### New Site Users
