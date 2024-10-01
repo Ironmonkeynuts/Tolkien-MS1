@@ -196,3 +196,7 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found [here](https://ironmonkeynuts.github.io/Tolkien-MS1)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
