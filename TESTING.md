@@ -24,3 +24,12 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
 | assets | style.css | ![screenshot]() | |
+
+
+## Browser Compatibility
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Browser | Home | About | Contact | etc | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Chrome | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
