@@ -97,3 +97,42 @@ Legacy
   - ![screenshot](documentation/wireframes/)
 
 </details>
+
+### Tablet Wireframes
+
+<details>
+<summary> Click here to see the Tablet Wireframes </summary>
+
+Home
+  - ![screenshot](documentation/wireframes/)
+
+Life
+  - ![screenshot](documentation/wireframes/)
+
+Literature
+  - ![screenshot](documentation/wireframes/)
+
+Legacy
+  - ![screenshot](documentation/wireframes/)
+
+</details>
+
+### Desktop Wireframes
+
+<details>
+<summary> Click here to see the Desktop Wireframes </summary>
+
+Home
+  - ![screenshot](documentation/wireframes/)
+
+Life
+  - ![screenshot](documentation/wireframes/)
+
+Literature
+  - ![screenshot](documentation/wireframes/)
+
+Legacy
+  - ![screenshot](documentation/wireframes/)
+
+</details>
+
