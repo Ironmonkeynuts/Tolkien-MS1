@@ -74,3 +74,26 @@ The headings use a font family consisting of Cambria, Cochin, Georgia, Times, 'T
 - As a returning site user, I would like a page that briefly describes particular pieces of Tolkien's literature and artwork, so that I can reference to find and enjoy his further work.
 - As a returning site user, I would like a page that list aspects of cultural life including films, music, other writers work, other artist's work, and games so that have taken inpsiration or influence from Tolkien and his work, so that I can know more about the impact of he has had on the wider culture.
 
+## Wireframes
+
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+
+### Mobile Wireframes
+
+<details>
+<summary> Click here to see the Mobile Wireframes </summary>
+
+Home
+  - ![screenshot](documentation/wireframes/)
+
+Life
+  - ![screenshot](documentation/wireframes/)
+
+Literature
+  - ![screenshot](documentation/wireframes/)
+
+Legacy
+  - ![screenshot](documentation/wireframes/)
+
+</details>
