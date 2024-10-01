@@ -40,3 +40,11 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | --- | --- | --- | --- | --- | --- |
 | Mobile (DevTools) | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 
+## Lighthouse Audit
+
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+
+| Page | Mobile | Desktop | Notes |
+| --- | --- | --- | --- |
+| Home | ![screenshot]() | ![screenshot]() | Some minor warnings |
+
