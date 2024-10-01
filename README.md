@@ -136,3 +136,37 @@ Legacy
 
 </details>
 
+## Features
+
+### Existing Features
+
+- **FEATURE-#1**
+
+    - Details
+
+![screenshot](documentation/features/)
+
+- **FEATURE-#2**
+
+    - Details
+
+![screenshot](documentation/features/)
+
+- **FEATURE-#3**
+
+    - Details
+
+![screenshot](documentation/features/)
+
+### Future Features
+
+- FUTURE-FEATURE-#1
+    - Notes.
+
+- FUTURE-FEATURE-#2
+    - Notes.
+
+- FUTURE-FEATURE-#3
+    - Notes.
+
+    
