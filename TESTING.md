@@ -48,3 +48,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | --- | --- | --- | --- |
 | Home | ![screenshot]() | ![screenshot]() | Some minor warnings |
 
+## User Story Testing
+
+| User Story | Screenshot |
+| --- | --- |
+| As a new site user, I would like to , so that I can . | ![screenshot]() |
+| As a returning site user, I would like to , so that I can . | ![screenshot]() |
+| As a site administrator, I should be able to , so that I can . | ![screenshot]() |
+
