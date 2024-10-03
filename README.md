@@ -84,7 +84,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 <details>
 <summary> Click here to see the Mobile Wireframes </summary>
 
-Home
+Home (index)
   - ![screenshot](documentation/wireframes/)
 
 Life
@@ -103,7 +103,7 @@ Legacy
 <details>
 <summary> Click here to see the Tablet Wireframes </summary>
 
-Home
+Home (index)
   - ![screenshot](documentation/wireframes/)
 
 Life
@@ -122,7 +122,7 @@ Legacy
 <details>
 <summary> Click here to see the Desktop Wireframes </summary>
 
-Home
+Home (index)
   - ![screenshot](documentation/wireframes/)
 
 Life
