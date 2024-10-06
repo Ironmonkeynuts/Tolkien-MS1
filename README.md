@@ -287,3 +287,4 @@ You can fork this repository by using the following steps:
 - I would like to thank my Runshaw College Tutor, [Ross Phillips](https://www.runshaw.ac.uk/) for his guidance throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
+- I would like to thank the author [J. R. R. Tolkien](https://www.tolkiensociety.org/) and his family [Tolkien](https://www.tolkienestate.com/) and the community of fans and creators who have provided inspiration for the development of this project. There are more sites to be thanked beyond the main ones mentioned here.
