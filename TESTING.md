@@ -11,10 +11,10 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-|  | index.html | ![screenshot]() | |
-|  | legacy.html | ![screenshot]() | |
-|  | life.html | ![screenshot]() | |
-|  | literature.html | ![screenshot]() | |
+|  | index.html | ![screenshot](documentation/validation/screenshot-validator-index.html.png) | |
+|  | life.html | ![screenshot](documentation/validation/screenshot-validator-life.png) | |
+|  | literature.html | ![screenshot](documentation/validation/screenshot-validator-literature.png) | |
+|  | legacy.html | ![screenshot](documentation/validation/screenshot-validator-legacy.png) | |
 
 ### CSS
 
@@ -22,7 +22,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-| assets | style.css | ![screenshot]() | |
+| assets | style.css | ![screenshot](documentation/validation/screenshot-validator-css.png) | |
 
 ## Browser Compatibility
 
