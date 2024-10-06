@@ -30,9 +30,9 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Browser | Home | Life | Literature | Legacy | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Chrome | ![screenshot](documentation/) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
-| Edge | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
-| Safari | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Chrome | ![screenshot](documentation/browser-compatability/screenshot-chrome-home.png) | ![screenshot](documentation/browser-compatability/screenshot-chrome-life.png) | ![screenshot](documentation/browser-compatability/screenshot-chrome-literature.png) | ![screenshot](documentation/browser-compatability/screenshot-chrome-legacy.png) | Works as expected |
+| Edge | ![screenshot](documentation/browser-compatability/screenshot-edge-home.png) | ![screenshot](documentation/browser-compatability/screenshot-edge-life.png) | ![screenshot](documentation/browser-compatability/screenshot-edge-literature.png) | ![screenshot](documentation/browser-compatability/screenshot-edge-legacy.png) | Works as expected |
+| Safari | ![screenshot](documentation/browser-compatability/screenshot-safari-home.png) | ![screenshot](documentation/browser-compatability/screenshot-safari-life.png) | ![screenshot](documentation/browser-compatability/screenshot-safari-literature.png) | ![screenshot](documentation/browser-compatability/screenshot-safari-legacy.png) | Works as expected |
 
 ## Responsiveness
 
