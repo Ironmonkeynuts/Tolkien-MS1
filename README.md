@@ -142,21 +142,55 @@ Legacy
 
 - **FEATURE-#1**
 
-    - Details
+    - Responsive Navbar common to all pages containing brand image and name to left and navigation options to right. Brand image and name also serve as link to home page (index). Menu is full in tablet and desktop mode. Uses hamburger menu in mobile mode with drop down options. Menu items stack underneath the brand image and name in mobile view.
 
-![screenshot](documentation/features/)
+![screenshot](documentation/features/screenshot-navbar-desktop.png)
+![screenshot](documentation/features/screenshot-navbar-mobile-closed.png)
+![screenshot](documentation/features/screenshot-navbar-mobile-opened.png)
 
 - **FEATURE-#2**
 
-    - Details
+    - Responsive footer common to all pages containing 3 external links to the left and a subscibe to newsletter form to the right. Underneath these is the page copyright. Responsive places links stacked with form underneath in smaller screens.
 
-![screenshot](documentation/features/)
+![screenshot](documentation/features/screenshot-footer-form.png)
 
 - **FEATURE-#3**
 
-    - Details
+    - Home (index) main feature is a hero-image of Tolkien with a modal underneath opening up the 'Quote of the month'.
 
-![screenshot](documentation/features/)
+![screenshot](documentation/features/screenshot-index-hero-image.png)
+
+- **FEATURE-#4**
+
+    - Modal underneath hero-image in index opening up the 'Quote of the month'. Button opens up modal containing text with a close button to close the modal dialogue. Clicking outside modal dialogue will also closes modal.
+
+![screenshot](documentation/features/screenshot-index-modal.png)
+
+- **FEATURE-#5**
+
+    - Life main feature includes text and accompanying image side by side in ratio 2:1 alternating between text first and image first for each section. 
+
+![screenshot](documentation/features/screenshot-life.png)
+
+- **FEATURE-#6**
+
+    - Literature main feature includes sections conatining headings followed by 3 sample images related to the section theme followed by text content supporting theme.
+
+![screenshot](documentation/features/screenshot-literature.png)
+
+- **FEATURE-#8**
+
+    - Legacy main feature includes sections containing headings followed by a mixture of images, a video and texts.
+
+![screenshot](documentation/features/screenshot-legacy-1.png)
+![screenshot](documentation/features/screenshot-legacy-2.png)
+
+- **FEATURE-#9**
+
+    - Embeded video at top of first section in Legacy page.  The video needs to be initiated by the user and does not play automatically.
+
+![screenshot](documentation/features/screenshot-legacy-embeded-video.png)
+
 
 ### Future Features
 
