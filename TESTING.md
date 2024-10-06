@@ -28,17 +28,21 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser | Home | About | Contact | etc | Notes |
+| Browser | Home | Life | Literature | Legacy | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Chrome | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Edge | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Safari | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 
 ## Responsiveness
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device | Home | About | Contact | etc | Notes |
+| Device | Home | Life | Literature | Legacy | Notes  |
 | --- | --- | --- | --- | --- | --- |
 | Mobile (DevTools) | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Tablet (DevTools) | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Desktop (DevTools) | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 
 ## Lighthouse Audit
 
