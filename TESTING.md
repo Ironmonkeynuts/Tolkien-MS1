@@ -30,7 +30,7 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Browser | Home | Life | Literature | Legacy | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Chrome | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Chrome | ![screenshot](documentation/) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 | Edge | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 | Safari | ![screenshot]() | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 
