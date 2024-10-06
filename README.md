@@ -85,16 +85,16 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 <summary> Click here to see the Mobile Wireframes </summary>
 
 Home (index)
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-life.png)
 
 Literature
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-literature.png)
 
 Legacy
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-legacy.png)
 
 </details>
 
@@ -104,16 +104,16 @@ Legacy
 <summary> Click here to see the Tablet Wireframes </summary>
 
 Home (index)
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-life.png)
 
 Literature
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-literature.png)
 
 Legacy
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-legacy.png)
 
 </details>
 
@@ -123,16 +123,16 @@ Legacy
 <summary> Click here to see the Desktop Wireframes </summary>
 
 Home (index)
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-index.png)
 
 Life
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-life.png)
 
 Literature
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-literature.png)
 
 Legacy
-  - ![screenshot](documentation/wireframes/)
+  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-legacy.png)
 
 </details>
 
