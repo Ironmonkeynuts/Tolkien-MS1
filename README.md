@@ -18,15 +18,15 @@ Generate interest in the person Tolkien and his works. Create further interest i
 Potential features to include:
 Tell about the early personal life of Tolkien, his struggles, his love and his loss.
 
-Tell about the work of Tolkien including his academic writing on history and linguistics, his development of fictional languages, his poetry, his short fictional stories and his grand stories based in the fictional Middle-earth world.
+Tell about the work of Tolkien including his academic writing on history and linguistics, his development of fictional languages, his poetry, his short fictional stories, his grand stories based in the fictional Middle-earth world and his artwork.
 
 Tell about the legacy of tolkien's work and how it has impacted in popular culture including, film, music, other authors, gaming and the general popular culture.
 
 Showcase photos, audio and/or video clips of his work or other artists imspired by his work.
 
-Provide links to external resources, including the Tolkien Foundation, film franchises and other fan sites.
+Provide links to external resources, including the Tolkien Society, the Tolkien Estate, the Tolkien Library, and in the futurelinks to film franchises and other fan sites.
 
-![screenshot](documentation/mockup.png)
+![screenshot](documentation/screenshot-mockup.png)
 
 source: [amiresponsive](https://ui.dev/amiresponsive?url=https://ironmonkeynuts.github.io/Tolkien-MS1)
 
