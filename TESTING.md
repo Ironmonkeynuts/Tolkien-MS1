@@ -50,7 +50,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot]() | ![screenshot]() | Some minor warnings |
+| Home | ![screenshot](documentation/lighthouse-audit/screenshot-lighthouse-mobile.png) | ![screenshot](documentation/lighthouse-audit/screenshot-lighthouse-desktop.png) | Some minor warnings |
 
 ## User Story Testing
 
