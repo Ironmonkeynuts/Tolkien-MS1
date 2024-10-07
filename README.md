@@ -273,13 +273,18 @@ You can fork this repository by using the following steps:
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [W3Schools](https://www.w3schools.com/bootstrap5/bootstrap_modal.php) | index.html | modal button and dialogue|
+| [Stack Overflow](https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead#:~:text=supported%20in%20HTML5.-,Use%20CSS%20instead.%22,to%20your%20iframe%20in%20css.) | iframe in legacy.html and style.css | remove obsolete attribute and replace with css style  |
+| [Bootstrap 5](https://getbootstrap.com/docs/5.0/components/navbar/) | entire site | responsive navbar |
+| [ChatGPT](https://chatgpt.com/) | entire site | generate text content relevant to the themes of each section|
 
 ### Media
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [](https://www.) | entire site | image |  |
-| [Preview](https://www.apple.com) | entire site | image | tool for image modification |
+| [Wikipedia](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/JRRT_logo.svg/340px-JRRT_logo.svg.png) | entire site | image | image used as brand logo within navbar |
+| [Inside Hook](https://www.insidehook.com/wp-content/uploads/2021/07/jrr-tolkien-the-green-knight.jpg?fit=1500%2C1000) | index.html | image | image used as hero-image for this page |
+| [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
 
