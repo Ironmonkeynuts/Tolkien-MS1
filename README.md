@@ -85,16 +85,16 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 <summary> Click here to see the Mobile Wireframes </summary>
 
 Home (index)
-  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-home.png)
+  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-life.png)
+  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-Life.png)
 
 Literature
-  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-literature.png)
+  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-literature.png)
 
 Legacy
-  - ![screenshot](documentation/wireframes/mobile/screenshot-mobile-legacy.png)
+  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-legacy.png)
 
 </details>
 
@@ -104,16 +104,16 @@ Legacy
 <summary> Click here to see the Tablet Wireframes </summary>
 
 Home (index)
-  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-home.png)
+  - ![screenshot](documentation/wireframes/tablet/wireframe-tablet-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-life.png)
+  - ![screenshot](documentation/wireframes/tablet/wireframe-tablet-life.png)
 
 Literature
-  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-literature.png)
+  - ![screenshot](documentation/wireframes/tablet/wireframe-tablet-literature.png)
 
 Legacy
-  - ![screenshot](documentation/wireframes/tablet/screenshot-tablet-legacy.png)
+  - ![screenshot](documentation/wireframes/tablet/wireframe-tablet-legacy.png)
 
 </details>
 
@@ -123,16 +123,16 @@ Legacy
 <summary> Click here to see the Desktop Wireframes </summary>
 
 Home (index)
-  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-index.png)
+  - ![screenshot](documentation/wireframes/desktop/wireframe-desktop-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-life.png)
+  - ![screenshot](documentation/wireframes/desktop/wireframe-desktop-life.png)
 
 Literature
-  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-literature.png)
+  - ![screenshot](documentation/wireframes/desktop/wireframe-desktop-literature.png)
 
 Legacy
-  - ![screenshot](documentation/wireframes/desktop/screenshot-desktop-legacy.png)
+  - ![screenshot](documentation/wireframes/desktop/wireframe-desktop-legacy.png)
 
 </details>
 
