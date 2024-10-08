@@ -195,13 +195,10 @@ Legacy
 ### Future Features
 
 - FUTURE-FEATURE-#1
-    - Notes.
+    - Import additional images and video to support text content in all pages. In life.html add more images to each section to give more visual image representation of Tolkien's life. In literature.html add more images of book covers for each book or more examples of Tolkien's artwork. In legacy.html import more video trailers and more still images of the films, add more images of the artwork of artists and add images for the games in the gaming section.
 
 - FUTURE-FEATURE-#2
-    - Notes.
-
-- FUTURE-FEATURE-#3
-    - Notes.
+    - Add more external links to websites referenced in this website such as the film franchises and also fan sites to provide traffic to those sites for further experience.
 
 ## Tools & Technologies Used
 
@@ -305,7 +302,21 @@ You can fork this repository by using the following steps:
 | [Wikipedia](https://en.wikipedia.org/wiki/Tolkien%27s_artwork#/media/File:Quallington_Carpenter,_Eastbury,_Berkshire_by_Tolkien_1912.jpg) | literature.html | image | image used as a supporting image for art section |
 | [flickr](https://www.flickr.com/photos/mnoel/3578499480/) | literature.html | image | image used as a supporting image for art section |
 | [Tolkien Gateway](https://tolkiengateway.net/wiki/Map_of_Wilderland) | literature.html | image | image used as a supporting image for art section |
-| []() | legacy.html | image | image used as a supporting image for  section |
+| []() | legacy.html | video | video used as a supporting content for films section |
+| []() | legacy.html | image | image used as a supporting image for films section |
+| []() | legacy.html | image | image used as a supporting image for other writers section |
+| []() | legacy.html | image | image used as a supporting image for other writers section |
+| []() | legacy.html | image | image used as a supporting image for other writers section |
+| []() | legacy.html | image | image used as a supporting image for other writers section |
+| []() | legacy.html | image | image used as a supporting image for music section |
+| []() | legacy.html | image | image used as a supporting image for music section |
+| []() | legacy.html | image | image used as a supporting image for music section |
+| []() | legacy.html | image | image used as a supporting image for music section |
+| []() | legacy.html | image | image used as a supporting image for music section |
+| []() | legacy.html | image | image used as a supporting image for art section |
+| []() | legacy.html | image | image used as a supporting image for art section |
+| []() | legacy.html | image | image used as a supporting image for art section |
+| []() | legacy.html | image | image used as a supporting image for art section |
 | [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
