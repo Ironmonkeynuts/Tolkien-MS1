@@ -88,7 +88,7 @@ Home (index)
   - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-Life.png){ width=50% }
+  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-Life.png)
 
 Literature
   - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-literature.png)
