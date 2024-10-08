@@ -290,7 +290,21 @@ You can fork this repository by using the following steps:
 | [Tolkien Gateway](https://tolkiengateway.net/wiki/World_War_I) | life.html | image | image used as a supporting image for the great war and the lost tales section |
 | [America Magazine](https://www.americamagazine.org/arts-culture/2022/08/18/cs-lewis-jrr-tolkien-inklings-243522) | life.html | image | image used as a supporting image for oxford, the inkilngs and the ring section |
 | [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | literature.html | image | image used as a supporting image for later life section |
-
+| [ebay](https://www.ebay.co.uk/itm/183749064059) | literature.html | image | image used as a supporting image for middle-earth fiction section |
+| [Wikipedia](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) | literature.html | image | image used as a supporting image for middle-earth fiction section |
+| [Wikipedia](https://en.wikipedia.org/wiki/The_Silmarillion) | literature.html | image | image used as a supporting image for middle-earth fiction section |
+| [Tolkien Library](https://tolkienlibrary.com/press/871-farmer-giles-of-ham-60th.php) | literature.html | image | image used as a supporting image for short stories and other literature section |
+| [Tolkien gateway](https://tolkiengateway.net/wiki/Tree_and_Leaf) | literature.html | image | image used as a supporting image for short stories and other literature section |
+| [Amazon](https://www.amazon.com/Leaf-Niggle-J-R-Tolkien/dp/0008205531) | literature.html | image | image used as a supporting image for short stories and other literature section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
+| []() | literature.html | image | image used as a supporting image for  section |
 | [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
