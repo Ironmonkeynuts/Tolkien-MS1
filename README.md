@@ -285,7 +285,12 @@ You can fork this repository by using the following steps:
 | [Wikipedia](https://en.wikipedia.org/wiki/File:JRRT_logo.svg) | entire site | image | image used as brand logo within navbar |
 | [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | index.html | image | image used as hero-image for this page |
 | [Hobby Lark](https://hobbylark.com/fandoms/JR-R-Tolkien-The-man-who-wrote-The-Hobbit-and-Lord-of-the-Rings) | life.html | image | image used as a supporting image for childhood section |
-| []() | life.html | image |  |
+| [Khronos Historia](https://khronoshistoria.com/historia-contemporanea/cultura-popular/tolkien-biografia/) | life.html | image | image used as a supporting image for school life and the tcbs section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Edith_Tolkien) | life.html | image | image used as a supporting image for university and edith section |
+| [Tolkien Gateway](https://tolkiengateway.net/wiki/World_War_I) | life.html | image | image used as a supporting image for the great war and the lost tales section |
+| [America Magazine](https://www.americamagazine.org/arts-culture/2022/08/18/cs-lewis-jrr-tolkien-inklings-243522) | life.html | image | image used as a supporting image for oxford, the inkilngs and the ring section |
+| [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | literature.html | image | image used as a supporting image for later life section |
+
 | [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
