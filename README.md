@@ -88,7 +88,7 @@ Home (index)
   - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-home.png)
 
 Life
-  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-Life.png)
+  - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-Life.png){ width=50% }
 
 Literature
   - ![screenshot](documentation/wireframes/mobile/wireframe-mobile-literature.png)
@@ -282,8 +282,10 @@ You can fork this repository by using the following steps:
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Wikipedia](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/JRRT_logo.svg/340px-JRRT_logo.svg.png) | entire site | image | image used as brand logo within navbar |
-| [Inside Hook](https://www.insidehook.com/wp-content/uploads/2021/07/jrr-tolkien-the-green-knight.jpg?fit=1500%2C1000) | index.html | image | image used as hero-image for this page |
+| [Wikipedia](https://en.wikipedia.org/wiki/File:JRRT_logo.svg) | entire site | image | image used as brand logo within navbar |
+| [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | index.html | image | image used as hero-image for this page |
+| [Hobby Lark](https://hobbylark.com/fandoms/JR-R-Tolkien-The-man-who-wrote-The-Hobbit-and-Lord-of-the-Rings) | life.html | image | image used as a supporting image for childhood section |
+| []() | life.html | image |  |
 | [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
