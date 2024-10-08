@@ -296,15 +296,16 @@ You can fork this repository by using the following steps:
 | [Tolkien Library](https://tolkienlibrary.com/press/871-farmer-giles-of-ham-60th.php) | literature.html | image | image used as a supporting image for short stories and other literature section |
 | [Tolkien gateway](https://tolkiengateway.net/wiki/Tree_and_Leaf) | literature.html | image | image used as a supporting image for short stories and other literature section |
 | [Amazon](https://www.amazon.com/Leaf-Niggle-J-R-Tolkien/dp/0008205531) | literature.html | image | image used as a supporting image for short stories and other literature section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
-| []() | literature.html | image | image used as a supporting image for  section |
+| [Dominic Winter Auctioneers](https://www.dominicwinter.co.uk/Auction/Lot/192-tolkien-j-r-r-baynes-pauline-bilbos-last-song-george-allen--unwin-1974/?lot=356073&sd=1) | literature.html | image | image used as a supporting image for poetry section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Poems_and_Songs_of_Middle_Earth) | literature.html | image | image used as a supporting image for poetry section |
+| [Tolkien Gateway](https://tolkiengateway.net/wiki/Poems_by_J.R.R._Tolkien:_Volume_I-III) | literature.html | image | image used as a supporting image for poetry section |
+| [Amazon](https://www.amazon.co.uk/Beowulf-Translation-Commentary-J-Tolkien/dp/0544570308) | literature.html | image | image used as a supporting image for academic writing and constructed languages section |
+| [Amazon](https://www.amazon.co.uk/Legend-Sigurd-Gudrun-J-Tolkien/dp/0547273428) | literature.html | image | image used as a supporting image for academic writing and constructed languages section |
+| [Amazon](https://www.amazon.co.uk/Languages-Tolkiens-Middle-earth-Ruth-Noel/dp/0395291305) | literature.html | image | image used as a supporting image for academic writing and constructed languages section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Tolkien%27s_artwork#/media/File:Quallington_Carpenter,_Eastbury,_Berkshire_by_Tolkien_1912.jpg) | literature.html | image | image used as a supporting image for art section |
+| [flickr](https://www.flickr.com/photos/mnoel/3578499480/) | literature.html | image | image used as a supporting image for art section |
+| [Tolkien Gateway](https://tolkiengateway.net/wiki/Map_of_Wilderland) | literature.html | image | image used as a supporting image for art section |
+| []() | legacy.html | image | image used as a supporting image for  section |
 | [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
