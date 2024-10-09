@@ -72,7 +72,7 @@ The headings use a font family consisting of Cambria, Cochin, Georgia, Times, 'T
 - As a returning site user, I would like a page devoted to the life history of Tolkien, so that I may find out about different aspects of Tolkiens life from childhood through to his elder years.
 - As a returning site user, I would like a page devoted to the literature and artwork of Tolkien, so that I can discover the genres and style of his writing and artwork.
 - As a returning site user, I would like a page that briefly describes particular pieces of Tolkien's literature and artwork, so that I can reference to find and enjoy his further work.
-- As a returning site user, I would like a page that list aspects of cultural life including films, music, other writers work, other artist's work, and games so that have taken inpsiration or influence from Tolkien and his work, so that I can know more about the impact of he has had on the wider culture.
+- As a returning site user, I would like a page that lists aspects of cultural life including films, music, other writers work, other artist's work, and games that have taken inpsiration or influence from Tolkien and his work, so that I can know more about the impact he has had on the wider culture.
 
 ## Wireframes
 
