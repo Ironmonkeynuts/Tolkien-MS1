@@ -40,9 +40,9 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device | Home | Life | Literature | Legacy | Notes  |
 | --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsiveness/screenshot-responsive-home-mobile.png) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsiveness/screenshot-responsive-home-tablet.png) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
-| Desktop (DevTools) | ![screenshot](documentation/responsiveness/screenshot-responsive-home-desktop.png) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| Mobile (DevTools) | ![screenshot](documentation/responsiveness/responsive-home-mobile.png) | ![screenshot](documentation/responsiveness/responsive-life-mobile.png) | ![screenshot](documentation/responsiveness/responsive-literature-mobile.png) | ![screenshot](documentation/responsiveness/responsive-legacy-mobile.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/responsiveness/responsive-home-tablet.png) | ![screenshot](documentation/responsiveness/responsive-life-tablet.png) | ![screenshot](documentation/responsiveness/responsive-literature-tablet.png) | ![screenshot](documentation/responsiveness/responsive-legacy-tablet.png) | Works as expected |
+| Desktop (DevTools) | ![screenshot](documentation/responsiveness/responsive-home-desktop.png) | ![screenshot](documentation/responsiveness/responsive-life-desktop.png) | ![screenshot](documentation/responsiveness/responsive-literature-desktop.png) | ![screenshot](documentation/responsiveness/responsive-legacy-desktop.png) | Works as expected |
 
 ## Lighthouse Audit
 
