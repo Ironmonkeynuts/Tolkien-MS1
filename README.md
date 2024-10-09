@@ -272,7 +272,7 @@ You can fork this repository by using the following steps:
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
 | [W3Schools](https://www.w3schools.com/bootstrap5/bootstrap_modal.php) | index.html | modal button and dialogue|
 | [Stack Overflow](https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead#:~:text=supported%20in%20HTML5.-,Use%20CSS%20instead.%22,to%20your%20iframe%20in%20css.) | iframe in legacy.html and style.css | remove obsolete attribute and replace with css style  |
-| [Bootstrap 5](https://getbootstrap.com/docs/5.0/components/navbar/) | entire site | responsive navbar |
+| [Bootstrap 5](https://getbootstrap.com/docs/5.0/components/navbar/) | entire site | responsive navbar, form and modal |
 | [ChatGPT](https://chatgpt.com/) | entire site | generate text content relevant to the themes of each section|
 
 ### Media
@@ -281,42 +281,42 @@ You can fork this repository by using the following steps:
 | --- | --- | --- | --- |
 | [Wikipedia](https://en.wikipedia.org/wiki/File:JRRT_logo.svg) | entire site | image | image used as brand logo within navbar |
 | [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | index.html | image | image used as hero-image for this page |
-| [Hobby Lark](https://hobbylark.com/fandoms/JR-R-Tolkien-The-man-who-wrote-The-Hobbit-and-Lord-of-the-Rings) | life.html | image | image used as a supporting image for childhood section |
-| [Khronos Historia](https://khronoshistoria.com/historia-contemporanea/cultura-popular/tolkien-biografia/) | life.html | image | image used as a supporting image for school life and the tcbs section |
-| [Wikipedia](https://en.wikipedia.org/wiki/Edith_Tolkien) | life.html | image | image used as a supporting image for university and edith section |
-| [Tolkien Gateway](https://tolkiengateway.net/wiki/World_War_I) | life.html | image | image used as a supporting image for the great war and the lost tales section |
+| [Hobby Lark](https://hobbylark.com/fandoms/JR-R-Tolkien-The-man-who-wrote-The-Hobbit-and-Lord-of-the-Rings) | life.html | image | image used as a supporting image for Childhood section |
+| [Khronos Historia](https://khronoshistoria.com/historia-contemporanea/cultura-popular/tolkien-biografia/) | life.html | image | image used as a supporting image for School Life and the tcbs section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Edith_Tolkien) | life.html | image | image used as a supporting image for University and Edith section |
+| [Tolkien Gateway](https://tolkiengateway.net/wiki/World_War_I) | life.html | image | image used as a supporting image for The Great War and the Lost Tales section |
 | [America Magazine](https://www.americamagazine.org/arts-culture/2022/08/18/cs-lewis-jrr-tolkien-inklings-243522) | life.html | image | image used as a supporting image for oxford, the inkilngs and the ring section |
-| [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | literature.html | image | image used as a supporting image for later life section |
-| [ebay](https://www.ebay.co.uk/itm/183749064059) | literature.html | image | image used as a supporting image for middle-earth fiction section |
-| [Wikipedia](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) | literature.html | image | image used as a supporting image for middle-earth fiction section |
-| [Wikipedia](https://en.wikipedia.org/wiki/The_Silmarillion) | literature.html | image | image used as a supporting image for middle-earth fiction section |
-| [Tolkien Library](https://tolkienlibrary.com/press/871-farmer-giles-of-ham-60th.php) | literature.html | image | image used as a supporting image for short stories and other literature section |
-| [Tolkien gateway](https://tolkiengateway.net/wiki/Tree_and_Leaf) | literature.html | image | image used as a supporting image for short stories and other literature section |
-| [Amazon](https://www.amazon.com/Leaf-Niggle-J-R-Tolkien/dp/0008205531) | literature.html | image | image used as a supporting image for short stories and other literature section |
-| [Dominic Winter Auctioneers](https://www.dominicwinter.co.uk/Auction/Lot/192-tolkien-j-r-r-baynes-pauline-bilbos-last-song-george-allen--unwin-1974/?lot=356073&sd=1) | literature.html | image | image used as a supporting image for poetry section |
-| [Wikipedia](https://en.wikipedia.org/wiki/Poems_and_Songs_of_Middle_Earth) | literature.html | image | image used as a supporting image for poetry section |
-| [Tolkien Gateway](https://tolkiengateway.net/wiki/Poems_by_J.R.R._Tolkien:_Volume_I-III) | literature.html | image | image used as a supporting image for poetry section |
-| [Amazon](https://www.amazon.co.uk/Beowulf-Translation-Commentary-J-Tolkien/dp/0544570308) | literature.html | image | image used as a supporting image for academic writing and constructed languages section |
-| [Amazon](https://www.amazon.co.uk/Legend-Sigurd-Gudrun-J-Tolkien/dp/0547273428) | literature.html | image | image used as a supporting image for academic writing and constructed languages section |
-| [Amazon](https://www.amazon.co.uk/Languages-Tolkiens-Middle-earth-Ruth-Noel/dp/0395291305) | literature.html | image | image used as a supporting image for academic writing and constructed languages section |
-| [Wikipedia](https://en.wikipedia.org/wiki/Tolkien%27s_artwork#/media/File:Quallington_Carpenter,_Eastbury,_Berkshire_by_Tolkien_1912.jpg) | literature.html | image | image used as a supporting image for art section |
+| [Inside Hook](https://www.insidehook.com/books/jrr-tolkien-sir-gawain-green-knight) | literature.html | image | image used as a supporting image for Later Life section |
+| [ebay](https://www.ebay.co.uk/itm/183749064059) | literature.html | image | image used as a supporting image for Middle-Earth Fiction section |
+| [Wikipedia](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) | literature.html | image | image used as a supporting image for Middle-Earth Fiction section |
+| [Wikipedia](https://en.wikipedia.org/wiki/The_Silmarillion) | literature.html | image | image used as a supporting image for Middle-Earth Fiction section |
+| [Tolkien Library](https://tolkienlibrary.com/press/871-farmer-giles-of-ham-60th.php) | literature.html | image | image used as a supporting image for Short Stories and Other Literature section |
+| [Tolkien gateway](https://tolkiengateway.net/wiki/Tree_and_Leaf) | literature.html | image | image used as a supporting image for Short Stories and Other Literature section |
+| [Amazon](https://www.amazon.com/Leaf-Niggle-J-R-Tolkien/dp/0008205531) | literature.html | image | image used as a supporting image for Short Stories and Other Literature section |
+| [Dominic Winter Auctioneers](https://www.dominicwinter.co.uk/Auction/Lot/192-tolkien-j-r-r-baynes-pauline-bilbos-last-song-george-allen--unwin-1974/?lot=356073&sd=1) | literature.html | image | image used as a supporting image for Poetry section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Poems_and_Songs_of_Middle_Earth) | literature.html | image | image used as a supporting image for Poetry section |
+| [Tolkien Gateway](https://tolkiengateway.net/wiki/Poems_by_J.R.R._Tolkien:_Volume_I-III) | literature.html | image | image used as a supporting image for Poetry section |
+| [Amazon](https://www.amazon.co.uk/Beowulf-Translation-Commentary-J-Tolkien/dp/0544570308) | literature.html | image | image used as a supporting image for Academic Writing and Constructed Languages section |
+| [Amazon](https://www.amazon.co.uk/Legend-Sigurd-Gudrun-J-Tolkien/dp/0547273428) | literature.html | image | image used as a supporting image for Academic Writing and Constructed Languages section |
+| [Amazon](https://www.amazon.co.uk/Languages-Tolkiens-Middle-earth-Ruth-Noel/dp/0395291305) | literature.html | image | image used as a supporting image for Academic Writing and Constructed Languages section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Tolkien%27s_artwork#/media/File:Quallington_Carpenter,_Eastbury,_Berkshire_by_Tolkien_1912.jpg) | literature.html | image | image used as a supporting image for Art section |
 | [flickr](https://www.flickr.com/photos/mnoel/3578499480/) | literature.html | image | image used as a supporting image for art section |
-| [Tolkien Gateway](https://tolkiengateway.net/wiki/Map_of_Wilderland) | literature.html | image | image used as a supporting image for art section |
-| []() | legacy.html | video | video used as a supporting content for films section |
-| []() | legacy.html | image | image used as a supporting image for films section |
-| []() | legacy.html | image | image used as a supporting image for other writers section |
-| []() | legacy.html | image | image used as a supporting image for other writers section |
-| []() | legacy.html | image | image used as a supporting image for other writers section |
-| []() | legacy.html | image | image used as a supporting image for other writers section |
-| []() | legacy.html | image | image used as a supporting image for music section |
-| []() | legacy.html | image | image used as a supporting image for music section |
-| []() | legacy.html | image | image used as a supporting image for music section |
-| []() | legacy.html | image | image used as a supporting image for music section |
-| []() | legacy.html | image | image used as a supporting image for music section |
-| []() | legacy.html | image | image used as a supporting image for art section |
-| []() | legacy.html | image | image used as a supporting image for art section |
-| []() | legacy.html | image | image used as a supporting image for art section |
-| []() | legacy.html | image | image used as a supporting image for art section |
+| [Tolkien Gateway](https://tolkiengateway.net/wiki/Map_of_Wilderland) | literature.html | image | image used as a supporting image for Art section |
+| [Youtube](https://www.youtube.com/watch?v=r5X-hFf6Bwo&t=2s) | legacy.html | video | video trailer from Movieclips used as a supporting content for Films section |
+| [IMDb](https://www.imdb.com/title/tt0903624/mediaindex/) | legacy.html | image | image used as a supporting image for Films section |
+| [nocloo](https://www.nocloo.com/c-s-lewis-biography/) | legacy.html | image | image of C.S. Lewis used as a supporting image for Other Writers section |
+| [Blox Digital](https://bloximages.newyork1.vip.townnews.com/discoverourcoast.com/content/tncms/assets/v3/editorial/2/bb/2bb2e5cd-a04b-5b42-8397-fb83430236d8/5c1d67bb1834f.image.jpg?resize=334%2C500) | legacy.html | image | image of Terry Brooks used as a supporting image for Other Writers section |
+| [MVL Teen Voice](https://mvlteenvoice.com/2016/10/31/authors-we-love-j-k-rowling/) | legacy.html | image | image of J.K. Rowling used as a supporting image for Other Writers section |
+| [Wikipedia](https://en.wikipedia.org/wiki/George_R._R._Martin) | legacy.html | image | image of George R.R. Martin used as a supporting image for Other Writers section |
+| [Schott Music Group](https://www.schott-music.com/en/person/howard-shore) | legacy.html | image | image of Howard Shore used as a supporting image for Music section |
+| [IMDb](https://www.imdb.com/name/nm0258216/) | legacy.html | image | image of Enya used as a supporting image for Music section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Charlemagne:_By_the_Sword_and_the_Cross) | legacy.html | image | image of Christopher Lee used as a supporting image for Music section |
+| [Wikipedia](https://en.wikipedia.org/wiki/Ozzy_Osbourne) | legacy.html | image | image of Ozzy Osbourne used as a supporting image for Music section |
+| [CNN](https://edition.cnn.com/interactive/2018/10/entertainment/led-zeppelin-cnnphotos/) | legacy.html | image | image of Led Zeppelin used as a supporting image for Music section |
+| [Arthive](https://arthive.com/sl/artists/8203~Alan_Lee/works/260625~The_hobbit_26) | legacy.html | image | image by Alan Lee used as a supporting image for Art section |
+| [Charatcer design References](https://characterdesignreferences.com/artist-of-the-week-12/alan-lee) | legacy.html | image | image by Alan Lee used as a supporting image for Art section |
+| [John Howe](https://www.john-howe.com/portfolio/gallery//details.php?image_id=1052&mode=search) | legacy.html | image | image by John Howe used as a supporting image for Art section |
+| [Pinterest](https://uk.pinterest.com/pin/7177680650665544/) | legacy.html | image | image from fan art used as a supporting image for Art section |
 | [Preview](https://www.apple.com) | entire site | image | tool for image editing and resizing |
 
 ### Acknowledgements
