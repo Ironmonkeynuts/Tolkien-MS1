@@ -98,7 +98,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 - On my personal iPhone 13 mobile device I noticed that the background image on life.html is blurring and not really responsive. This issue is not apparant in developer tools using the responsive tool. The background images on life.html and on literature.html are merely wallpapers for the page and are such not important. This issue does not show up in testing on the developer app.
 
-    ![screenshot](documentation/bugs/unfixed-bug01.png)
+    ![screenshot](documentation/bugs/unfixed-bug01-iphone14-chrome-developer-tools.png) ![screenshot](documentation/bugs/unfixed-bug01-iphone13-actual-phone.jpeg)
 
     - Attempted fix: Researched ways to improve the responsiveness of the background image but did not find a fix that worked.
 
