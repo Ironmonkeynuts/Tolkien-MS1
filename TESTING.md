@@ -64,7 +64,6 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a returning site user, I would like a page devoted to the life history of Tolkien, so that I may find out about different aspects of Tolkiens life from childhood through to his elder years. | ![screenshot]() |
 | As a returning site user, I would like a page devoted to the literature and artwork of Tolkien, so that I can discover the genres and style of his writing and artwork. | ![screenshot]() |
 | As a returning site user, I would like a page that list aspects of cultural life including films, music, other writers work, other artist's work, and games so that have taken inpsiration or influence from Tolkien and his work, so that I can know more about the impact of he has had on the wider culture. | ![screenshot]() |
-| As a site administrator, I should be able to , so that I can . | ![screenshot]() |
 
 ## Bugs
 
