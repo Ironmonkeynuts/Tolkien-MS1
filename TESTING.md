@@ -79,6 +79,19 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
     - To fix this, I corrected label to match.
 
+- Fixed errors of surplus code picked up by Validator in life.html and literature.html.
+
+    ![screenshot](documentation/bugs/bug03.png)
+
+    - To fix this, I removed surplus " in code on line 69 of life.html and surplus < em > on line 196 in literature.html.
+
+- Fixed error of obsolete code for iframes in legacy.html picked up by Validator.
+
+    ![screenshot](documentation/bugs/bug04.png)
+
+    - To fix this, I removed frameborder atrribute from iframe in legacy.html and created a style in css for iframe to be styled with border 0.
+
+
 
 ## Unfixed Bugs
 
