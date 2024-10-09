@@ -11,10 +11,10 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-|  | index.html | ![screenshot](documentation/validation/screenshot-validator-index.html.png) | |
-|  | life.html | ![screenshot](documentation/validation/screenshot-validator-life.png) | |
-|  | literature.html | ![screenshot](documentation/validation/screenshot-validator-literature.png) | |
-|  | legacy.html | ![screenshot](documentation/validation/screenshot-validator-legacy.png) | |
+|  | index.html | ![screenshot](documentation/validation/screenshot-validator-index.html.png) | No errors or warnings |
+|  | life.html | ![screenshot](documentation/validation/screenshot-validator-life.png) | No errors or warnings |
+|  | literature.html | ![screenshot](documentation/validation/screenshot-validator-literature.png) | No errors or warnings |
+|  | legacy.html | ![screenshot](documentation/validation/screenshot-validator-legacy.png) | No errors or warnings |
 
 ### CSS
 
@@ -22,7 +22,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-| assets | style.css | ![screenshot](documentation/validation/screenshot-validator-css.png) | |
+| assets | style.css | ![screenshot](documentation/validation/screenshot-validator-css.png) | No errors or warnings |
 
 ## Browser Compatibility
 
