@@ -69,7 +69,8 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 - Fixed footer creating overflow conflict and restricting view of scrollable text. As a result of this change it was also necessary to change the background colours on the navbar as they had 50% opacity and this caused poor visibity on the text in the navbar as text in the main scrolled underneath.
 
-    ![screenshot](documentation/bugs/bug01.png)
+    ![screenshot](documentation/bugs/bug01a.png)    ![screenshot](documentation/bugs/bug01b.png)
+    ![screenshot](documentation/bugs/bug01c.png)    ![screenshot](documentation/bugs/bug01d.png)
 
     - To fix this, I removed overflow-auto from main class on each of the pages and gave the navbar a fixed-top class to maintain the navbar on show at the top. To fix secondary issue I add css styles to colour background in the navbar and created brand-color class to the main text. These colours were 100% opaque and thus removed the problem of visibility of text.
 
@@ -81,13 +82,13 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 - Fixed errors of surplus code picked up by Validator in life.html and literature.html.
 
-    ![screenshot](documentation/bugs/bug03.png)
+    ![screenshot](documentation/bugs/bug03a.png)
 
     - To fix this, I removed surplus " in code on line 69 of life.html and surplus < em > on line 196 in literature.html.
 
 - Fixed error of obsolete code for iframes in legacy.html picked up by Validator.
 
-    ![screenshot](documentation/bugs/bug04.png)
+    ![screenshot](documentation/bugs/bug04a.png)    ![screenshot](documentation/bugs/bug04b.png)
 
     - To fix this, I removed frameborder atrribute from iframe in legacy.html and created a style in css for iframe to be styled with border 0.
 
