@@ -67,5 +67,26 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Bugs
 
+- Fixed footer creating overflow conflict and restricting view of scrollable text. As a result of this change it was also necessary to change the background colours on the navbar as they had 50% opacity and this caused poor visibity on the text in the navbar as text in the main scrolled underneath.
+
+    ![screenshot](documentation/bugs/bug01.png)
+
+    - To fix this, I removed overflow-auto from main class on each of the pages and gave the navbar a fixed-top class to maintain the navbar on show at the top. To fix secondary issue I add css styles to colour background in the navbar and created brand-color class to the main text. These colours were 100% opaque and thus removed the problem of visibility of text.
+
+- Fixed incorrect labelling in form for newsletter subscription.
+
+    ![screenshot](documentation/bugs/bug02.png)
+
+    - To fix this, I corrected label to match.
+
+
 ## Unfixed Bugs
 
+- On my personal iPhone 13 mobile device I noticed that the background image on life.html is blurring and not really responsive. This issue is not apparant in developer tools using the responsive tool. The background images on life.html and on literature.html are merely wallpapers for the page and are such not important. This issue does not show up in testing on the developer app.
+
+    ![screenshot](documentation/bugs/unfixed-bug01.png)
+
+    - Attempted fix: Researched ways to improve the responsiveness of the background image but did not find a fix that worked.
+
+> [!NOTE]  
+> There are no remaining bugs that I am aware of.
