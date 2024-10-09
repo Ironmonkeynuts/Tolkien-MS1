@@ -50,7 +50,10 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-audit/screenshot-lighthouse-mobile.png) | ![screenshot](documentation/lighthouse-audit/screenshot-lighthouse-desktop.png) | Some minor warnings |
+| Home | ![screenshot](documentation/lighthouse-audit/lighthouse-mobile-home.png) | ![screenshot](documentation/lighthouse-audit/lighthouse-desktop-home.png) | Some minor warnings |
+| Life | ![screenshot](documentation/lighthouse-audit/lighthouse-mobile-life.png) | ![screenshot](documentation/lighthouse-audit/lighthouse-desktop-life.png) | Some minor warnings |
+| Literature | ![screenshot](documentation/lighthouse-audit/lighthouse-mobile-literature.png) | ![screenshot](documentation/lighthouse-audit/lighthouse-desktop-literature.png) | Some minor warnings |
+| Legacy | ![screenshot](documentation/lighthouse-audit/lighthouse-mobile-legacy.png) | ![screenshot](documentation/lighthouse-audit/lighthouse-desktop-legacy.png) | Some minor warnings |
 
 ## User Story Testing
 
