@@ -200,6 +200,9 @@ Legacy
 - FUTURE-FEATURE-#2
     - Add more external links to websites referenced in this website such as the film franchises and also fan sites to provide traffic to those sites for further experience.
 
+- FUTURE-FEATURE-#3
+    - After a period of time in which the website has gained significant traffic and following add an interview page on the affect Tolkien has had on people in cultural life. These would be direct quotes in response to interview questions. Include image of the person at the interview and make refernce to their work in particular work that is a result of the Tolkien influence.
+
 ## Tools & Technologies Used
 
 - [![Markdown Builder](https://img.shields.io/badge/Markdown_Builder-grey?logo=markdown&logoColor=000000)](https://tim.2bn.dev/markdown-builder) used to generate README and TESTING templates.
@@ -262,6 +265,8 @@ You can fork this repository by using the following steps:
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
 ### Local VS Deployment
+
+No differences were observed.
 
 ## Credits
 
