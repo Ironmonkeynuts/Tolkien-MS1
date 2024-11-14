@@ -92,7 +92,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
     - To fix this, I removed frameborder atrribute from iframe in legacy.html and created a style in css for iframe to be styled with border 0.
 
+- Fixed error of surplus close button in modal header of modal on index.html.
 
+    ![screenshot](documentation/bugs/bug05.png)
+
+    - To fix this, I removed button close in the modal header.
 
 ## Unfixed Bugs
 
