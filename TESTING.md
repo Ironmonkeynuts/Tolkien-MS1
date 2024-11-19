@@ -98,6 +98,12 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
     - To fix this, I removed button close in the modal header.
 
+- Contrast errors found using Wave on all pages including in modal on index and in the footer subscribe form.
+
+    ![screenshot](documentation/bugs/bug05.png)
+
+    - To fix this, I added text-body-dark to modal and changed btn-outline-secondary to btn-outline-dark on modal and footer subscribe form.
+
 ## Unfixed Bugs
 
 - On my personal iPhone 13 mobile device I noticed that the background image on life.html is blurring and not really responsive. This issue is not apparant in developer tools using the responsive tool. The background images on life.html and on literature.html are merely wallpapers for the page and are such not important. This issue does not show up in testing on the developer app.
