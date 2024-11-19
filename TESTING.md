@@ -100,7 +100,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 - Contrast errors found using Wave on all pages including in modal on index and in the footer subscribe form.
 
-    ![screenshot](documentation/bugs/bug05.png)
+    ![screenshot](documentation/bugs/bug06.png)
 
     - To fix this, I added text-body-dark to modal and changed btn-outline-secondary to btn-outline-dark on modal and footer subscribe form.
 
